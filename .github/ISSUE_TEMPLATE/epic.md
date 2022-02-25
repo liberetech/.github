@@ -1,3 +1,12 @@
+---
+name: Epic
+about: Create an Epic to be considered the "parent" issue of a body of work.
+title: " "
+labels: epic
+assignees: ''
+
+---
+
 ## Context
 
 Describe the context of the epic: which problem is solving, which features is implementing, why it's needed, etc.
