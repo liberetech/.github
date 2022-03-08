@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!--- Beware this is a public repo about issue templates. Avoid adding any sensitive data in it -->
+
 ## Context
 
 Describe the context of the epic: which problem is solving, which features is implementing, why it's needed, etc.
