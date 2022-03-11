@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-<!-- Beware this is a public repo about issue templates. Avoid adding any sensitive data in it -->
+<!--- Beware this is a public repo about issue templates. Avoid adding any sensitive data in it i--->
 
 ## Context
 
