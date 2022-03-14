@@ -2,12 +2,12 @@
 name: Epic
 about: Create an Epic to be considered the "parent" issue of a body of work.
 title: " "
-labels: epic
+labels: EPIC
 assignees: ''
 
 ---
 
-<!--- Beware this is a public repo about issue templates. Avoid adding any sensitive data in it i--->
+<!-- Beware this is a public repo about issue templates. Avoid adding any sensitive data in it it -->
 
 ## Context
 
