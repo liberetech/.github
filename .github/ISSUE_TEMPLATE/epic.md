@@ -9,17 +9,28 @@ assignees:
 
 ## Context
 
-Describe the context of the epic: which problem is solving, which features is implementing, why it's needed, etc.
+The scope of the epic and any link to the project/initiative documentation
 
-## Goals / Subtasks
+[Notion](https://www.notion.so/)
 
-List of tasks to be accomplished as part of the epic.
+## Phase I: Title
+- [ ] As a...
+- [ ] As a...
 
-- [ ] subtask 1
-- [ ] subtask 2
-...
+[🏁 Milestone](https://github.com/liberetech/project-management/milestone/X)
+### Added Value
+Value added after milestone is completed
 
-## Added Value
+### Rollout plan
+If it is a progressive rollout we'll track what's been released too:
+- [ ] LVGA
+- [ ] Rest of assets
 
-Describe the value this epic adds to our product.
-Ideally this would refer to some KRs.
+## Phase II: Title
+- [ ] As a...
+- [ ] As a...
+
+[🏁 Milestone](https://github.com/liberetech/project-management/milestone/Y)
+### Added Value
+
+### Rollout plan
