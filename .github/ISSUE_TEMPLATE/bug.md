@@ -2,8 +2,9 @@
 name: 🐛 Bug
 about: Create a Bug issue
 title: ''
-labels: ':bug: bug'
+labels: ''
 assignees: ''
+type: "Bug"
 
 ---
 

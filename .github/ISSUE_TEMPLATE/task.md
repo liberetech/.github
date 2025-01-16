@@ -1,8 +1,8 @@
 ---
 name: 🤖 Task
-about: Create a Task issue.
+about: Create a Task issue
 title: ''
-labels: ':robot_face: task'
+labels: ''
 assignees: ''
 type: "Task"
 
