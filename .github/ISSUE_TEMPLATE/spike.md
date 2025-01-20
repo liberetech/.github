@@ -2,7 +2,8 @@
 name: 🤯 Spike
 about: Create a Spike issue
 title: ''
-labels: ':exploding_head: spike'
+labels: ''
+type: "Spike"
 assignees: ''
 
 ---

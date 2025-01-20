@@ -2,7 +2,8 @@
 name: 🏁 Epic
 about: Create an Epic to be considered the parent issue of a body of work.
 title: ''
-labels: ':checkered_flag: EPIC'
+labels: ''
+type: "Epic"
 assignees:
 
 ---

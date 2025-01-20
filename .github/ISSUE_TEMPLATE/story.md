@@ -2,7 +2,7 @@
 name: 🏨 Story
 about: Create a user story
 title: ''
-labels: ':hotel: story'
+type: "Story"
 assignees: ''
 
 ---
