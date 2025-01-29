@@ -3,7 +3,7 @@ name: 🤯 Spike
 about: Create a Spike issue
 title: ''
 labels: ''
-type: "Spike"
+type: "🤯 Spike"
 assignees: ''
 
 ---

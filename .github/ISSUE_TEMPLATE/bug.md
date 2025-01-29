@@ -4,7 +4,7 @@ about: Create a Bug issue
 title: ''
 labels: ''
 assignees: ''
-type: "Bug"
+type: "🐛 Bug"
 
 ---
 

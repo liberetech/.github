@@ -4,7 +4,7 @@ about: Create a Task issue
 title: ''
 labels: ''
 assignees: ''
-type: "Task"
+type: "🤖 Task"
 
 ---
 

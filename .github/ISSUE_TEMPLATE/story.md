@@ -2,7 +2,7 @@
 name: 🏨 Story
 about: Create a user story
 title: ''
-type: "Story"
+type: "🏨 Story"
 assignees: ''
 
 ---
